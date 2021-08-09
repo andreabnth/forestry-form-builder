@@ -25,5 +25,11 @@ name = "gender"
 options = ["Perempuan", "Laki-laki"]
 template = "select"
 type = "select"
+[[form.sections.fields]]
+description = ""
+label = "Asal Sekolah"
+name = "school"
+template = "text-field"
+type = "text"
 
 +++

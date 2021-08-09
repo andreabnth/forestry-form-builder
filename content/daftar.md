@@ -50,5 +50,11 @@ label = "Nomor Telepon"
 name = "telepon"
 template = "text-field"
 type = "text"
+[[form.sections.fields]]
+description = ""
+label = "Nama Orang Tua/Wali"
+name = "ortu"
+template = "text-field"
+type = "text"
 
 +++

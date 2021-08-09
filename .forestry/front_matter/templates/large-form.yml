@@ -38,5 +38,4 @@ fields:
     hidden: true
     default: long
 pages:
-- content/daftar-official-smart-club.md
 - content/survey.md

@@ -31,5 +31,11 @@ label = "Asal Sekolah"
 name = "school"
 template = "text-field"
 type = "text"
+[[form.sections.fields]]
+description = ""
+label = "Kelas"
+name = "class"
+template = "text-field"
+type = "text"
 
 +++

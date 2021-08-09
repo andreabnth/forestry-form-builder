@@ -18,5 +18,12 @@ label = "E-mail"
 name = "email"
 template = "text-field"
 type = "text"
+[[form.sections.fields]]
+description = ""
+label = "Jenis Kelamin"
+name = "gender"
+options = ["Perempuan", "Laki-laki"]
+template = "select"
+type = "select"
 
 +++

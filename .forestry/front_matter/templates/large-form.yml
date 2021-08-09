@@ -39,6 +39,4 @@ fields:
     default: long
 pages:
 - content/daftar.md
-- content/daftar.md
-- content/survey.md
 - content/survey.md

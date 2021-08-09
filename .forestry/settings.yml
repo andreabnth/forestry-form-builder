@@ -4,10 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/*
+- type: directory
+  path: content
   label: Homepage
-  read_only: true
+  create: all
+  match: content/*
 - type: directory
   path: content
   label: Pages

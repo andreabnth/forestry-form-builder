@@ -37,5 +37,18 @@ label = "Kelas"
 name = "class"
 template = "text-field"
 type = "text"
+[[form.sections.fields]]
+description = "(bagi siswa SMA)"
+label = "Jurusan"
+name = "jurusan"
+options = ["IPA", "IPS", "Bahasa"]
+template = "select"
+type = "select"
+[[form.sections.fields]]
+description = ""
+label = "Nomor Telepon"
+name = "telepon"
+template = "text-field"
+type = "text"
 
 +++

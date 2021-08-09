@@ -1,21 +1,25 @@
 ---
 title: Contact Us
 form:
-  recipient: test@example.com
-  submit_text: ''
+  recipient: cherrydobi@gmail.com
+  submit_text: Kirim
   fields:
   - template: text-field
     type: text
     name: name
-    label: Full Name
+    label: Nama Lengkap
+    description: ''
   - template: text-field
     type: text
     name: email
     label: E-mail
+    description: ''
   - template: textarea
     type: textarea
     name: message
-    label: Message
+    label: Pesan
+    description: ''
+  type: ''
 
 ---
 Use the form below to send us a message.

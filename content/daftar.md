@@ -66,7 +66,7 @@ type = "text"
 description = ""
 label = "Program Pilihan"
 name = "program"
-options = ["Smart Club", "Smart Alphabet", "English Academy"]
+options = ["Smart Alphabet", "Smart Club SD", "Smart Club SMP", "Smart Club SMA", "English Academy"]
 template = "select"
 type = "select"
 

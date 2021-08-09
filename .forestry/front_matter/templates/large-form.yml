@@ -38,4 +38,5 @@ fields:
     hidden: true
     default: long
 pages:
+- content/daftar.md
 - content/survey.md

@@ -5,7 +5,7 @@ recipient = "cherrydobi@gmail.com"
 submit_text = "Kirim"
 type = "long"
 [[form.sections]]
-title = "Nama"
+title = "Daftar"
 [[form.sections.fields]]
 description = ""
 label = "Nama Lengkap"

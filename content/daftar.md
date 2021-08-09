@@ -62,5 +62,12 @@ label = "Nomor Telepon"
 name = "telp"
 template = "text-field"
 type = "text"
+[[form.sections.fields]]
+description = ""
+label = "Program Pilihan"
+name = "program"
+options = ["Smart Club", "Smart Alphabet", "English Academy"]
+template = "select"
+type = "select"
 
 +++

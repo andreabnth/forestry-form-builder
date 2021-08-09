@@ -12,5 +12,11 @@ label = "Nama Lengkap"
 name = "name"
 template = "text-field"
 type = "text"
+[[form.sections.fields]]
+description = ""
+label = "E-mail"
+name = "email"
+template = "text-field"
+type = "text"
 
 +++
